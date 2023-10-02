@@ -1,0 +1,24 @@
+
+form  {
+    overflow: hidden;
+}
+
+form #submitBtn {
+    padding: 6px 32px;
+    background-color: green;
+    border: 1px solid green;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    box-shadow: none;
+    color: #fff;
+    margin: 10px 0px;
+    border-radius: 2px;
+    outline: 0;
+}
+
+form #submitBtn:hover {
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+    color: #000;
+}
